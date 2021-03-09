@@ -1,0 +1,20 @@
+.center { 
+    text-align: center; 
+}
+
+#counter{
+    font-size: 70px;
+    font-family: fantasy;
+    color:rgba(44, 217, 230, 0.829); 
+}
+
+.button{
+    background-color: rgba(255, 239, 187, 0.849);
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    color:rgba(233, 115, 115, 0.795);
+    width: 75px;
+    height: 50px;
+    font-family: fantasy;
+    font-size: 25px;
+}
